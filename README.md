@@ -4,8 +4,8 @@
 
 #I solved bugs of barriers suddenly jumping and the snake wrongly coliding barriers.
 
-#Tasks to be done
-#1.stars to increase the length of snakes
-#2.line barriers to prevent the snake casually moving
-#3.mutithread to achieve muti-users playing
-#4.beautify the GUI
+#Tasks to be done\n
+#1.stars to increase the length of snakes\n
+#2.line barriers to prevent the snake casually moving\n
+#3.mutithread to achieve muti-users playing\n
+#4.beautify the GUI\n
